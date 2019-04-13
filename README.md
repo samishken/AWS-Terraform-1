@@ -6,7 +6,7 @@
   - Run NGINX - To serve content.
   - Deploy ${HOSTNAME}.
   
-  ![Web Content](file:///Users/samishken/Dropbox/Screenshots/Screenshot%202019-04-13%2007.10.14.png)
+  ![alt text](https://www.dropbox.com/s/iuh5rf0ewzgywwm/Screenshot%202019-04-13%2007.10.14.png?dl=0)
   
   - VPC
   
