@@ -8,10 +8,6 @@ done
 # install nginx
 apt-get update
 apt-get -y install nginx
-yum update -y
-yum install httpd -y
-service httpd start
-chkconfig httpd on
 cd /var/www/html
 echo  "<html><h1>ByteCubed Challenge ${HOSTNAME}</h1></html>" > index.html
 
